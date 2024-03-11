@@ -38,7 +38,7 @@ public class Main {
         int perf24hour = performance * 60 * 24;
         int perf3days = perf24hour * 3;
         int perfMonth = perf24hour * 30;
-        //sout
+
 
     }
 }
